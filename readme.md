@@ -10,9 +10,9 @@ Readme Do Projeto
 
 <p>Para entender o CSS, podemos pensar nele como as instruções de decoração de uma casa. Existem três formas de especificar onde as mudanças devem ocorrer:
 
-Tags: Estas são como categorias gerais de elementos, como quartos ou banheiros. Ao aplicar estilos a uma tag específica, como <div> ou <p>, você afeta todos os elementos desse tipo na página.
+Tags: Estas são como categorias gerais de elementos, como quartos ou banheiros. Ao aplicar estilos a uma tag específica, como "div" ou "p", você afeta todos os elementos desse tipo na página.
 
-IDs: Um ID é como dar um nome único a uma sala específica, por exemplo, "sala-de-estar". Ao atribuir um ID a um elemento HTML, como <div id="sala-de-estar">, você está indicando que quer estilizar apenas esse elemento.
+IDs: Um ID é como dar um nome único a uma sala específica, por exemplo, "sala-de-estar". Ao atribuir um ID a um elemento HTML, como \<div> id="sala-de-estar"\</div>, você está indicando que quer estilizar apenas esse elemento.
 
 Classes: Classes são usadas para agrupar elementos que compartilham características semelhantes. Por exemplo, se você quiser aplicar um estilo específico a todos os elementos que representam links de navegação, você pode atribuir a esses elementos a mesma classe, como class="link-navegacao". Dessa forma, você pode estilizar todos os elementos com essa classe de forma consistente.
 
